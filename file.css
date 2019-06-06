@@ -1,0 +1,110 @@
+html{
+  border:5px solid white;
+  background-color: #e6ffff;
+}
+h1{
+  font-family: 'Grand Hotel', cursive;
+}
+  a:visited {
+  font-family: 'Grand Hotel', cursive;
+  color: orange;
+}
+li{
+  font-family: 'Inconsolata', monospace;
+  color: #ff0066;
+}
+ul{
+  font-family: 'Cousine', monospace;
+  color: #ff0066;
+}
+.monday{
+  height:150px;
+  width:201px;
+  border:10px solid #ff0066;
+  object-fit: cover;
+}
+.tuesday{
+  position : relative;
+  width : 150px;
+  height : 200px;
+  background-color : #e6ffff;
+  border : 10px solid orange;
+  -webkit-transition : border 500ms ease-out;
+  -moz-transition : border 500ms ease-out;
+  -o-transition : border 500ms ease-out;
+  transition : border 500ms ease-out;
+}
+.tuesday{
+  height:150px;
+  width:200px;
+    border:10px solid orange;
+      object-fit: cover;
+}
+.wednesday{
+  position : relative;
+  width : 150px;
+  height : 200px;
+  background-color : #e6ffff;
+  border : 5px solid pink;
+  -webkit-transition : border 500ms ease-out;
+  -moz-transition : border 500ms ease-out;
+  -o-transition : border 500ms ease-out;
+  transition : border 500ms ease-out;
+}
+.wednesday{
+  height:150px;
+  width:200px;
+    border:10px solid pink;
+      object-fit: cover;
+}
+.thursday{
+  position : relative;
+  width : 150px;
+  height : 200px;
+  background-color : yellow;
+  border : 5px solid pink;
+  -webkit-transition : border 500ms ease-out;
+  -moz-transition : border 500ms ease-out;
+  -o-transition : border 500ms ease-out;
+  transition : border 500ms ease-out;
+}
+.thursday{
+  height:150px;
+  width:200px;
+    border:10px solid #ffcc00;
+      object-fit: cover;
+}
+.friday{
+  position : relative;
+  width : 150px;
+  height : 200px;
+  background-color : #e6ffff;
+  border : 5px solid #ff3300;
+  -webkit-transition : border 500ms ease-out;
+  -moz-transition : border 500ms ease-out;
+  -o-transition : border 500ms ease-out;
+  transition : border 500ms ease-out;
+}
+.friday{
+  height:150px;
+  width:200px;
+    border:10px solid #ff3300;
+      object-fit: cover;
+}
+.monday{
+  position : relative;
+  width : 150px;
+  height : 200px;
+  background-color : #e6ffff;
+  border : 5px solid #ff0066;
+  -webkit-transition : border 500ms ease-out;
+  -moz-transition : border 500ms ease-out;
+  -o-transition : border 500ms ease-out;
+  transition : border 500ms ease-out;
+}
+.monday{
+  height:150px;
+  width:201px;
+  border:10px solid #ff0066;
+  object-fit: cover;
+}
